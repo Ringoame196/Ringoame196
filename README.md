@@ -5,3 +5,5 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ringoame196&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
+
+<a href="[https://twitter.com](https://twitter.com/ringoame196)https://twitter.com/ringoame196">Twitter</a>

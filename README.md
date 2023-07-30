@@ -1,4 +1,4 @@
-[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=ユーザ名&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Ringoame196/
+[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=Ringoame196&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Ringoame196/
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ringoame196&layout=compact&count_private=true&show_icons=true&theme=cobalt" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Ringoame196&count_private=true&show_icons=true&show_icons=true&theme=onedark" />

@@ -1,3 +1,4 @@
+![issue](https://twitter.com/ringoame196/photo)
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ringoame196&layout=compact&count_private=true&show_icons=true&theme=cobalt" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Ringoame196&count_private=true&show_icons=true&show_icons=true&theme=onedark" />

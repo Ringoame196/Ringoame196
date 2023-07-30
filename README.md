@@ -1,4 +1,4 @@
-![issue](https://twitter.com/ringoame196/photo](https://pbs.twimg.com/profile_images/1654678718311460865/nz_Swm56_400x400.jpg)
+![issue]([https://twitter.com/ringoame196/photo](https://pbs.twimg.com/profile_images/1654678718311460865/nz_Swm56_400x400.jpg](https://pbs.twimg.com/profile_images/1654678718311460865/nz_Swm56_400x400.jpg))
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ringoame196&layout=compact&count_private=true&show_icons=true&theme=cobalt" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Ringoame196&count_private=true&show_icons=true&show_icons=true&theme=onedark" />

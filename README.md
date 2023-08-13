@@ -7,5 +7,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ringoame196&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
 
+<h1>[よく使っている言語]</h1>
 <img src="https://img.shields.io/badge/-Kotlin-0095D5.svg?logo=kotlin&style=plastic">
 <img src="https://img.shields.io/badge/-Java-007396.svg?logo=java&style=plastic">

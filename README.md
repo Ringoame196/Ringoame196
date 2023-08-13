@@ -12,6 +12,6 @@
 <img src="https://img.shields.io/badge/-Java-007396.svg?logo=java&style=plastic">
 
 <h1>[SNS]</h1>
-<a href="http://twitter.com/yutkat">
+<a href="http://twitter.com/Ringoame196">
     <img height="20" src="https://img.shields.io/twitter/follow/Ringoame196?label=Twitter&logo=twitter&style=flat" />
   </a>

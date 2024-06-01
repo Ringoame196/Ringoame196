@@ -11,6 +11,12 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ringoame196&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ringoame196/Ringoame196/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ringoame196/Ringoame196/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ringoame196/Ringoame196/output/github-contribution-grid-snake.svg">
+</picture>
+
 <h1>[よく使っている言語]</h1>
 <img src="https://img.shields.io/badge/-Kotlin-0095D5.svg?logo=kotlin&style=plastic">
 <img src="https://img.shields.io/badge/-Java-007396.svg?logo=java&style=plastic">

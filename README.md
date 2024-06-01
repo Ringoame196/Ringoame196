@@ -1,4 +1,4 @@
-<h1>★Welcome to Ringoame196's GitHub</h1>
+<h1>Hi! 👋 Welcome to my GitHub! 😊</h1>
 <h2>[ステータス]</h2>
 <p align="left">
   <img height="20" src="https://komarev.com/ghpvc/?username=Ringoame196" />

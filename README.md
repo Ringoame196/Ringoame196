@@ -1,4 +1,8 @@
 <h1>[ステータス]</h1>
+<p align="left">
+  <img height="20" src="https://komarev.com/ghpvc/?username=Ringoame196" />
+  <img height="20" src="https://img.shields.io/github/followers/Ringoame196?label=follow&logo=github&style=flat" />
+</p>
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ringoame196&layout=compact&count_private=true&show_icons=true&theme=cobalt" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Ringoame196&count_private=true&show_icons=true&show_icons=true&theme=onedark" />

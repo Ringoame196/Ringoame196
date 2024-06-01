@@ -1,4 +1,5 @@
-<h1>[ステータス]</h1>
+<h1>★Welcome to Ringoame196's GitHub</h1>
+<h2>[ステータス]</h2>
 <p align="left">
   <img height="20" src="https://komarev.com/ghpvc/?username=Ringoame196" />
   <img height="20" src="https://img.shields.io/github/followers/Ringoame196?label=follow&logo=github&style=flat" />
@@ -17,11 +18,11 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ringoame196/Ringoame196/output/github-contribution-grid-snake.svg">
 </picture>
 
-<h1>[よく使っている言語]</h1>
+<h2>[よく使っている言語]</h2>
 <img src="https://img.shields.io/badge/-Kotlin-0095D5.svg?logo=kotlin&style=plastic">
 <img src="https://img.shields.io/badge/-Java-007396.svg?logo=java&style=plastic">
 
-<h1>[SNS]</h1>
+<h2>[SNS]</h2>
 <a href="http://twitter.com/Ringoame196">
     <img height="20" src="https://img.shields.io/twitter/follow/Ringoame196?label=Twitter&logo=twitter&style=flat" />
   </a>

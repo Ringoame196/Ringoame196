@@ -19,10 +19,8 @@
 </picture>
 
 <h2>[よく使っている言語]</h2>
-<img src="https://img.shields.io/badge/-Kotlin-0095D5.svg?logo=kotlin&style=plastic">
-<img src="https://img.shields.io/badge/-Java-007396.svg?logo=java&style=plastic">
+<img src="https://github.com/Ringoame196/VideoStorage/blob/main/images/kotlin.png"  width="200"> <br>
+<img src="https://github.com/Ringoame196/VideoStorage/blob/main/images/Java.jpg"  width="200">
 
-<h2>[SNS]</h2>
-<a href="http://twitter.com/Ringoame196">
-    <img height="20" src="https://img.shields.io/twitter/follow/Ringoame196?label=X(Twitter)&logo=twitter&style=flat" />
-  </a>
+<h2>[ウェブサイト]</h2>
+  <a href="https://ringoame196.github.io/link/"><p>LINKサイト</p></a>

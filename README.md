@@ -23,4 +23,5 @@
 <img src="https://github.com/Ringoame196/VideoStorage/blob/main/images/Java.jpg"  width="200">
 
 <h2>[ウェブサイト]</h2>
+  <a href="https://ringoame196.github.io/HP/"><p>ホームページ</p></a>
   <a href="https://ringoame196.github.io/link/"><p>LINKサイト</p></a>

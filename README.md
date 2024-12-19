@@ -24,4 +24,3 @@
 
 <h2>[ウェブサイト]</h2>
   <a href="https://ringoame196.github.io/HP/"><p>ホームページ</p></a>
-  <a href="https://ringoame196.github.io/link/"><p>LINKサイト</p></a>

@@ -18,6 +18,9 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ringoame196/Ringoame196/output/github-contribution-grid-snake.svg">
 </picture>
 
+<h2>Minecraftプラグイン</h2>
+<a href="https://github.com/ringoame196-s-mcPlugin"><p>Minecraftプラグイン用Organizations</p></a>
+
 <h2>[よく使っている言語]</h2>
 <img src="https://github.com/Ringoame196/VideoStorage/blob/main/images/kotlin.png"  width="200"> <br>
 <img src="https://github.com/Ringoame196/VideoStorage/blob/main/images/Java.jpg"  width="200">

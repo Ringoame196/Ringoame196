@@ -1,5 +1,5 @@
 <h1>Hi! 👋 Welcome to my GitHub! 😊</h1>
-<h2>[ステータス]</h2>
+<h2>[ステータス(Status)]</h2>
 <p align="left">
   <img height="20" src="https://komarev.com/ghpvc/?username=Ringoame196" />
   <img height="20" src="https://img.shields.io/github/followers/Ringoame196?label=follow&logo=github&style=flat" />
@@ -18,12 +18,12 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ringoame196/Ringoame196/output/github-contribution-grid-snake.svg">
 </picture>
 
-<h2>Minecraftプラグイン</h2>
-<a href="https://github.com/ringoame196-s-mcPlugin"><p>Minecraftプラグイン用Organizations</p></a>
+<h2>Minecraftプラグイン(MinecraftPlugin)</h2>
+<a href="https://github.com/ringoame196-s-mcPlugin"><p>Minecraftプラグイン用Organizations(Organization for Minecraft plugin)</p></a>
 
-<h2>[よく使っている言語]</h2>
+<h2>[よく使っている言語(Frequently Used Languages)]</h2>
 <img src="https://github.com/Ringoame196/VideoStorage/blob/main/images/kotlin.png"  width="200"> <br>
 <img src="https://github.com/Ringoame196/VideoStorage/blob/main/images/Java.jpg"  width="200">
 
-<h2>[ウェブサイト]</h2>
-  <a href="https://ringoame196.github.io/HP/"><p>ホームページ</p></a>
+<h2>[ウェブサイト(Web Site)]</h2>
+  <a href="https://ringoame196.github.io/HP/"><p>ホームページ(Homepage)</p></a>

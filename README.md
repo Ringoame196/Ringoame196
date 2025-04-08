@@ -3,6 +3,12 @@
 <p align="left">
   <img height="20" src="https://komarev.com/ghpvc/?username=Ringoame196" />
   <img height="20" src="https://img.shields.io/github/followers/Ringoame196?label=follow&logo=github&style=flat" />
+  <a href="http://qiita.com/ringoame196">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/ringoame196/posts.svg" />
+  </a>
+  <a href="http://qiita.com/ringoame196">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/ringoame196/contributions.svg" />
+  </a>
 </p>
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ringoame196&layout=compact&count_private=true&show_icons=true&theme=cobalt" />
